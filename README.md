@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) (Familiar)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-007396?style=flat&logo=java&logoColor=white)
+![R](https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=MySQL&logoColor=white)
