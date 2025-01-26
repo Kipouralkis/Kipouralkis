@@ -1,23 +1,25 @@
-## Hi there 👋
+# 👋 Hello! I'm Alkis
+### Welcome to my GitHub corner!
 
-<!--
-**Kipouralkis/Kipouralkis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Current Focus and W.I.P.s
+- 📚 **Java & Spring**: Delving deeper into backend development with Spring Boot to build scalable web services.
+- 💻 **React**: Learning front-end development to craft engaging, interactive user experiences.
+- 🎨 **Creative Web Projects**: I’m working on combining my love for art and coding by building websites to showcase my art projects.
+- 
 
-Here are some ideas to get you started:
+### 🚀 Goals
+- Master **full-stack development** to bring data-driven and creative projects to life.
+- Integrate **data science** knowledge into web applications for interactive, intelligent user experiences.
+- **Build web apps** that fuse art and technology in creative ways.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Let’s Connect
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Portfolio Website] (if applicable)
+- [Email](mailto:your-email@example.com)
 
+### 🎯 Fun Facts
+- I’m passionate about bridging the gap between **art and technology**.
+- Currently building a portfolio to showcase **interactive art projects**.
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Intermediate-007396?style=flat&logo=java&logoColor=white)
-![R](https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=MySQL&logoColor=white)
+---
+Looking forward to growing as a full-stack developer and always happy to collaborate on interesting ideas!
