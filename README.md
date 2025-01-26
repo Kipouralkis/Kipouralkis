@@ -15,8 +15,9 @@
 - 💻 **React**: Exploring front-end technologies to complement my backend skills and create interactive web applications.
 
   
-### 🎨 **Personal Projects**: I’m passionate about integrating web development with my creative side, particularly art and creative tech projects.
-- **Master the skills** to bring my art and creative projects to life through web and game development.
+### 🎨 **Personal Projects**: 
+- I’m passionate about integrating web development with my creative side, particularly art and creative tech projects.
+- I want to master the skills to bring my art and creative projects to life through web and game development.
 
 
 <h2 align="left">I code with</h2>
