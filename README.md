@@ -8,17 +8,14 @@
 
 <h2 align="left">About me</h2>
 
-
-Despite spending years as a Computer Science student and earning my MSc in Data Science, I'm now making a fresh start in the world of coding. My current focus is on **Java development**, and I'm eager to master **Spring** to build powerful backend systems, alongside **React** for front-end development.
-
 🚀 **Discovered the world of LLMs** through my studies, which deepened my interest in AI and natural language processing.
 
-### 🌱 A New Beginning
+### 🌱 My Next Chapter
 - 📚 **Java & Spring**: Diving into backend development and learning how to build robust, scalable systems.
 - 💻 **React**: Exploring front-end technologies to complement my backend skills and create interactive web applications.
-- 🎨 **Personal Projects**: I’m passionate about integrating web development with my creative side, particularly art and creative tech projects.
 
-### 🚀 Next Goal
+  
+### 🎨 **Personal Projects**: I’m passionate about integrating web development with my creative side, particularly art and creative tech projects.
 - **Master the skills** to bring my art and creative projects to life through web and game development.
 
 
