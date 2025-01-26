@@ -1,25 +1,46 @@
-# 👋 Hello! I'm Alkis
-### Welcome to my GitHub corner!
+<h1 align="left">Hey 👋 What's up?</h1>
 
-### 🌟 Current Focus and W.I.P.s
-- 📚 **Java & Spring**: Delving deeper into backend development with Spring Boot to build scalable web services.
-- 💻 **React**: Learning front-end development to craft engaging, interactive user experiences.
-- 🎨 **Creative Web Projects**: I’m working on combining my love for art and coding by building websites to showcase my art projects.
-- 
+###
 
-### 🚀 Goals
-- Master **full-stack development** to bring data-driven and creative projects to life.
-- Integrate **data science** knowledge into web applications for interactive, intelligent user experiences.
-- **Build web apps** that fuse art and technology in creative ways.
+<p align="left"></p>
 
-### 📬 Let’s Connect
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Portfolio Website] (if applicable)
-- [Email](mailto:your-email@example.com)
+###
 
-### 🎯 Fun Facts
-- I’m passionate about bridging the gap between **art and technology**.
-- Currently building a portfolio to showcase **interactive art projects**.
+<h2 align="left">About me</h2>
 
----
-Looking forward to growing as a full-stack developer and always happy to collaborate on interesting ideas!
+###
+
+<p align="left">Despite spending years as a Computer Science student and earning my MSc in Data Science, I'm now making a fresh start in the world of coding. My current focus is on **Java development**, and I'm eager to master **Spring** to build powerful backend systems, alongside **React** for front-end development.<br><br>🚀 **Discovered the world of LLMs** through my studies, which deepened my interest in AI and natural language processing.<br><br>
+### 🌱 A New Beginning<br>- 📚 **Java & Spring**: Diving into backend development and learning how to build robust, scalable systems.<br>- 💻 **React**: Exploring front-end technologies to complement my backend skills and create interactive web applications.<br>- 🎨 **Personal Projects**: I’m passionate about integrating web development with my creative side, particularly art and creative tech projects.<br><br>
+### 🚀 Next Goal<br>- **Master the skills** to bring my art and creative projects to life through web and game development.</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kipouralkis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kipouralkis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Kipouralkis/Kipouralkis/output/snake.svg" alt="Snake animation" />
+
+###
